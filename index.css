@@ -1,0 +1,17 @@
+  p{
+    background-color: aquamarine;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    }
+body{
+background-color: violet;
+    font-size: 35pt;
+    text-align: center;
+}
+    a{
+    background-color: aquamarine;
+    color: darkblue;
+    font-size: 25pt;
+    text-align: center;
+}
