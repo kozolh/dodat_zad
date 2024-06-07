@@ -1,0 +1,23 @@
+body{
+    background-color: lightskyblue;
+    }
+
+p#pogrubienie_kozyr{
+    font-size: 20pt;
+    color: #423b8a;
+}
+p#pochylenie_kozyr{
+    color: #53226c;
+}
+p#index_gorny{
+    font-size: 2cm;
+    color:#8f1862;
+}
+p#index_dolny{
+    font-size: 25px;
+    color: #49369e;
+}
+a{
+    font-size: 30px;
+    color: palevioletred;
+}
